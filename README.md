@@ -1,12 +1,6 @@
-<p align="center">
-  <img
-    src="https://images.unsplash.com/photo-1745232997474-3a066feac313?q=80&w=2060&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    width="100%"
-    alt="Black Universe Banner"
-  />
-</p>
-
 <div align="center" >
+
+<img src="https://i.pinimg.com/originals/2e/1b/8a/2e1b8a9c7d8c2a2a5c7a5d3c9b0c7b8f.gif" width="120" />
 
 # 👋 Hi, I'm Lucas  
 ### Full Stack Developer
