@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://www.freepik.com/free-photo/galaxy-night-view_13140031.htm#fromView=search&page=1&position=14&uuid=039ac5d2-784e-4cdd-8cc3-0562ace6f16b&query=black+universe"
+    src="https://images.unsplash.com/photo-1745232997474-3a066feac313?q=80&w=2060&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     width="100%"
     alt="Black Universe Banner"
   />
