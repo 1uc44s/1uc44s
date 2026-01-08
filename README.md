@@ -1,6 +1,6 @@
-<div align="center">
+<div align="center" >
 
-<img src="https://i.pinimg.com/originals/2e/1b/8a/2e1b8a9c7d8c2a2a5c7a5d3c9b0c7b8f.gif" width="120" />
+<img src="https://www.freepik.com/free-photo/galaxy-night-view_13140031.htm#fromView=search&page=1&position=14&uuid=039ac5d2-784e-4cdd-8cc3-0562ace6f16b&query=black+universe" width="%100" />
 
 # 👋 Hi, I'm Lucas  
 ### Full Stack Developer
