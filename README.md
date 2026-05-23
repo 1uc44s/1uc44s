@@ -7,13 +7,13 @@
 
 🧠 Learning by **trial & error**  
 🟣 Focused on **Full Stack Websites & Mobile Apps**  
-⚡ Clean code • Modern UI • Performance
+⚡ Clean code • Modern UI • Performance • Speed 
 
 </div>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack !
 
 <div align="center">
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Do ?
 - 🌐 Full Stack Web Applications  
 - 📱 Mobile App Development  
 - 🎨 UI / UX Focused Interfaces  
@@ -41,9 +41,9 @@
 
 ---
 
-## 🌐 Links
+## 🌐 Social Links !
 - 💻 Website: [https://www.codecraftstudio.com.tr](https://www.codecraftstudio.com.tr)  
-- 📷 Instagram: [https://instagram.com/0.0_lucaas/](https://www.instagram.com/0.0_lucaas/)  
+- 📷 Instagram: [https://instagram.com/1uc44ss0/](https://www.instagram.com/1uc44ss0/)  
 - 💬 Discord: vasquez.dev
 
 ---
