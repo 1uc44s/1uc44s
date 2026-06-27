@@ -43,7 +43,6 @@
 
 ## 🌐 Social Links !
 - 💻 Website: [https://www.codecraftstudio.com.tr](https://www.codecraftstudio.com.tr)  
-- 📷 Instagram: [https://instagram.com/1uc44ss0/](https://www.instagram.com/1uc44ss0/)  
 - 💬 Discord: vasquez.dev
 
 ---
