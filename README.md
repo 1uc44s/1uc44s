@@ -3,11 +3,11 @@
 <img src="https://i.pinimg.com/originals/2e/1b/8a/2e1b8a9c7d8c2a2a5c7a5d3c9b0c7b8f.gif" width="120" />
 
 # 👋 Hi, I'm Lucas  
-### Full Stack Developer
+### Noob Developer • Coding & Pentesting With AI
 
 🧠 Learning by **trial & error**  
-🟣 Focused on **Full Stack Websites & Mobile Apps**  
-⚡ Clean code • Modern UI • Performance • Speed 
+🟣 Focused on **Web Dev & Junior Security**  
+⚡ Clean code • Modern UI • Performance • AI-Driven  
 
 </div>
 
@@ -34,10 +34,10 @@
 ---
 
 ## 🚀 What I Do ?
-- 🌐 Full Stack Web Applications  
-- 📱 Mobile App Development  
-- 🎨 UI / UX Focused Interfaces  
-- ⚙️ API & Backend Logic  
+- 🤖 **Coding & Pentesting with AI** (Leveraging AI for development & security labs)
+- 🌐 **Full Stack Web Applications**  
+- 📱 **Mobile App Development**  
+- 🔒 **Junior Security & Sızma Testleri**  
 
 ---
 
@@ -49,6 +49,6 @@
 
 <div align="center">
 
-🟣 **Building. Learning. Improving.**
+🟣 **Building. Learning. Improving with AI.**
 
 </div>
