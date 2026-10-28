@@ -47,7 +47,7 @@
 ---
 
 ## 🌐 Social Links !
-- 💻 Website: [https://www.codecraftdevelopment.com.tr](https://www.codecraftdevelopment.com)  
+- 💻 Website: [https://www.codecraftdevelopment.com](https://www.codecraftdevelopment.com)  
 - 💬 Discord: vasquezss
 
 ---
