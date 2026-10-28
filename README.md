@@ -30,7 +30,9 @@
 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0b0b0b?style=for-the-badge&logo=tailwind-css&logoColor=9b5cff)
 ![HTML5](https://img.shields.io/badge/HTML5-0b0b0b?style=for-the-badge&logo=html5&logoColor=9b5cff)
-![CSS3](https://img.shields.io/badge/CSS3-0b0b0b?style=for-the-badge&logo=css3&logoColor=9b5cff)
+![CSS](https://img.shields.io/badge/CSS-0b0b0b?style=for-the-badge&logo=css3&logoColor=9b5cff)
+
+![AI & Vibe Coding](https://img.shields.io/badge/AI_%26_Vibe_Coding-0b0b0b?style=for-the-badge&logo=openai&logoColor=9b5cff)
 
 </div>
 
@@ -51,8 +53,6 @@
 ---
 
 <div align="center">
-
-![Artificial Intelligence](https://img.shields.io/badge/AI-Powered-0b0b0b?style=for-the-badge&logo=googlegemini&logoColor=9b5cff)
 
 🟣 **Building. Learning. Improving with AI.**
 
