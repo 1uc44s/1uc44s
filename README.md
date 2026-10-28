@@ -24,14 +24,11 @@
 ![Express.js](https://img.shields.io/badge/Express.js-0b0b0b?style=for-the-badge&logo=express&logoColor=9b5cff)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0b0b?style=for-the-badge&logo=postgresql&logoColor=9b5cff)
+![MySQL](https://img.shields.io/badge/MySQL-0b0b0b?style=for-the-badge&logo=mysql&logoColor=9b5cff)
 ![Prisma](https://img.shields.io/badge/Prisma-0b0b0b?style=for-the-badge&logo=prisma&logoColor=9b5cff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0b0b0b?style=for-the-badge&logo=mongodb&logoColor=9b5cff)
 ![Supabase](https://img.shields.io/badge/Supabase-0b0b0b?style=for-the-badge&logo=supabase&logoColor=9b5cff)
 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0b0b0b?style=for-the-badge&logo=tailwind-css&logoColor=9b5cff)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0b0b0b?style=for-the-badge&logo=radix-ui&logoColor=9b5cff)
-![HeroUI](https://img.shields.io/badge/HeroUI-0b0b0b?style=for-the-badge&logo=vercel&logoColor=9b5cff)
-
 ![HTML5](https://img.shields.io/badge/HTML5-0b0b0b?style=for-the-badge&logo=html5&logoColor=9b5cff)
 ![CSS3](https://img.shields.io/badge/CSS3-0b0b0b?style=for-the-badge&logo=css3&logoColor=9b5cff)
 
@@ -54,6 +51,8 @@
 ---
 
 <div align="center">
+
+![Artificial Intelligence](https://img.shields.io/badge/AI-Powered-0b0b0b?style=for-the-badge&logo=googlegemini&logoColor=9b5cff)
 
 🟣 **Building. Learning. Improving with AI.**
 
