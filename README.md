@@ -6,7 +6,7 @@
 ### Noob Developer • Coding & Pentesting With AI
 
 🧠 Learning by **trial & error**  
-🟣 Focused on **Web Dev & Junior Security**  
+🟣 Focused on **Web Dev, Mobile Apps & Junior Security**  
 ⚡ Clean code • Modern UI • Performance • AI-Driven  
 
 </div>
@@ -19,8 +19,14 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0b0b0b?style=for-the-badge&logo=javascript&logoColor=9b5cff)
 ![React](https://img.shields.io/badge/React-0b0b0b?style=for-the-badge&logo=react&logoColor=9b5cff)
-![Next.js](https://img.shields.io/badge/Next.js-0b0b0b?style=for-the-badge&logo=next.js&logoColor=9b5cff)
+![Vite.js](https://img.shields.io/badge/Vite.js-0b0b0b?style=for-the-badge&logo=vite&logoColor=9b5cff)
 ![Node.js](https://img.shields.io/badge/Node.js-0b0b0b?style=for-the-badge&logo=node.js&logoColor=9b5cff)
+![Express.js](https://img.shields.io/badge/Express.js-0b0b0b?style=for-the-badge&logo=express&logoColor=9b5cff)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0b0b?style=for-the-badge&logo=postgresql&logoColor=9b5cff)
+![Prisma](https://img.shields.io/badge/Prisma-0b0b0b?style=for-the-badge&logo=prisma&logoColor=9b5cff)
+![MongoDB](https://img.shields.io/badge/MongoDB-0b0b0b?style=for-the-badge&logo=mongodb&logoColor=9b5cff)
+![Supabase](https://img.shields.io/badge/Supabase-0b0b0b?style=for-the-badge&logo=supabase&logoColor=9b5cff)
 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0b0b0b?style=for-the-badge&logo=tailwind-css&logoColor=9b5cff)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0b0b0b?style=for-the-badge&logo=radix-ui&logoColor=9b5cff)
@@ -36,7 +42,7 @@
 ## 🚀 What I Do ?
 - 🤖 **Coding & Pentesting with AI** (Leveraging AI for development & security labs)
 - 🌐 **Full Stack Web Applications**  
-- 📱 **Mobile App Development**  
+- 📱 **Mobile App Development with AI**  
 - 🔒 **Junior Security & Sızma Testleri**  
 
 ---
