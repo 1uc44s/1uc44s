@@ -49,7 +49,7 @@
 ## 🌐 Social Links !
 - 💻 Website: [codecraftdevelopment.com](https://www.codecraftdevelopment.com)  
 - 💬 Discord: vasquezss
-- 👻 Instagram: [@codecraftdevelopment](https://www.instagram.com/codecraftdevelopment/)
+- 👻 Instagram: [@1uc44ss0](https://www.instagram.com/1uc44ss0/)
 
 ---
 
